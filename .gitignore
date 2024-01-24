@@ -1,0 +1,10 @@
+*.nc
+FILE:*
+PRES:*
+*.log
+*.out
+*.exe
+GRIBFILE*
+*.grb
+*.grib1
+*.grib2
